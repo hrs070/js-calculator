@@ -2,4 +2,4 @@
 A simple javascript calculator project
 
 
-[LIVE DEMO] (https://hrs070.github.io/js-calculator/)
+(LIVE DEMO) [https://hrs070.github.io/js-calculator/]
